@@ -1,3 +1,20 @@
+"""
+Project: Predicting Human Behaviour with Human Traits
+
+Description:
+Machine learning project analysing personality traits using
+PCA dimensionality reduction and K-Means clustering.
+
+Techniques:
+- Data preprocessing
+- Exploratory data analysis
+- PCA
+- K-Means clustering
+- Tkinter GUI
+
+Author:
+Arthi Balaji
+"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
