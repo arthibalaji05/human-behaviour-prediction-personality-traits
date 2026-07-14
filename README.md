@@ -19,6 +19,28 @@ https://thegrenze.com/search?fn=223_22.pdf&name=Predicting+Human+behaviour+with+
 
 ---
 
+## 📸 Screenshots
+
+### Application Home
+
+![GUI](screenshots/gui_home.jpg)
+
+### Personality Questionnaire
+
+![Questionnaire](screenshots/questionnaire.jpg)
+
+### Personality Prediction
+
+![Prediction](screenshots/prediction_result.jpg)
+
+### K-Means Clustering
+
+![KMeans](screenshots/kmeans.png)
+
+### Continental Analysis
+
+![Continents](screenshots/continental_prediction.png)
+
 ## 📌 Overview
 
 Understanding human personality plays a significant role in psychology, human resource management, education, and marketing. This project applies Machine Learning techniques to analyze personality traits based on the Big Five (OCEAN) model.
