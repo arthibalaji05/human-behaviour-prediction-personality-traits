@@ -2,86 +2,68 @@
 
 ## Overview
 
-This project explores the prediction and analysis of human behaviour characteristics using machine learning techniques based on personality traits.
+This project focuses on analysing and predicting human behavioural patterns using personality traits and machine learning techniques.
 
-The study applies:
-
-* Principal Component Analysis (PCA) for dimensionality reduction
-* K-Means clustering for personality pattern discovery
-* Data visualisation techniques for behavioural analysis
-* Tkinter GUI for interactive personality assessment
-
-The project investigates the relationship between Big Five personality traits:
-
-* Openness
-* Conscientiousness
-* Extroversion
-* Agreeableness
-* Neuroticism
+The system applies:
+- Principal Component Analysis (PCA) for dimensionality reduction
+- K-Means clustering for identifying personality groups
+- Data visualisation for behavioural analysis
+- Tkinter GUI for interactive personality assessment
 
 ## Research Publication
 
 **Title:** Predicting Human Behaviour with Human Traits
-**Authors:** Arthi B, Arul Venil, Dr. M.D. Kamalesh
-**Published in:** Grenze International Journal of Engineering and Technology (GIJET), 2025
+
+**Authors:**  
+Arthi B, Arul Venil, Dr. M.D. Kamalesh
+
+**Published:**  
+Grenze International Journal of Engineering and Technology (GIJET), 2025
 
 ## Methodology
 
-### 1. Data Preprocessing
+### Data Preprocessing
+- Cleaned and prepared personality trait datasets
+- Handled missing values
+- Normalised features for machine learning
 
-* Handled missing values and inconsistent responses
-* Normalised personality trait features
-* Integrated geographical information for comparative analysis
+### Exploratory Data Analysis
+- Analysed Big Five personality traits:
+  - Openness
+  - Conscientiousness
+  - Extroversion
+  - Agreeableness
+  - Neuroticism
 
-### 2. Exploratory Data Analysis
-
-Performed visual analysis to understand:
-
-* Personality trait distributions
-* Continental-level personality patterns
-* Response behaviour
-
-### 3. Machine Learning Approach
+### Machine Learning Models
 
 **PCA**
-
-* Reduced feature dimensions
-* Enabled better visualisation of personality patterns
+- Reduced dataset dimensions
+- Improved visual interpretation
 
 **K-Means Clustering**
+- Identified personality-based groups
+- Discovered hidden behavioural patterns
 
-* Identified groups of individuals with similar personality profiles
-* Analysed hidden behavioural patterns
+### Application
 
-### 4. Personality Prediction System
-
-Developed an interactive Tkinter application that:
-
-* Accepts personality-based responses
-* Calculates trait scores
-* Provides visual personality assessment results
+Developed a Tkinter-based GUI that allows users to:
+- Enter personality responses
+- Generate personality assessment results
+- Visualise trait distributions
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Tkinter
-* PCA
-* K-Means Clustering
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Tkinter
 
-## Key Skills Demonstrated
+## Skills Demonstrated
 
-* Machine Learning
-* Unsupervised Learning
-* Feature Engineering
-* Data Analysis
-* Data Visualisation
-* Model Development
-* Research Documentation
+- Machine Learning
+- Unsupervised Learning
+- Data Analysis
+- Feature Engineering
+- Data Visualisation
+- Research & Documentation
 
 ## Publication Link
 
