@@ -1,10 +1,10 @@
-# 🧠 Human Behaviour Prediction Using Personality Traits
+# Human Behaviour Prediction Using Personality Traits
 
 > A published machine learning research project that analyzes human behaviour using the Big Five Personality Traits through Principal Component Analysis (PCA), K-Means clustering, and an interactive Tkinter desktop application.
 
 ---
 
-## 📖 Research Publication
+## Research Publication
 
 This project is based on our published research paper.
 
@@ -14,12 +14,12 @@ This project is based on our published research paper.
 **Journal:**
 Grenze International Journal of Engineering and Technology (GIJET), Volume 11, Issue 2, 2025
 
-🔗 **Research Paper**
+**Research Paper**
 https://thegrenze.com/search?fn=223_22.pdf&name=Predicting+Human+behaviour+with+Human+Traits&id=6095&association=GRENZE&journal=GIJET&year=2025&volume=11&issue=2
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Application Home
 
@@ -41,7 +41,7 @@ https://thegrenze.com/search?fn=223_22.pdf&name=Predicting+Human+behaviour+with+
 
 ![Continents](screenshots/continental_prediction.png)
 
-## 📌 Overview
+## Overview
 
 Understanding human personality plays a significant role in psychology, human resource management, education, and marketing. This project applies Machine Learning techniques to analyze personality traits based on the Big Five (OCEAN) model.
 
@@ -49,7 +49,7 @@ Principal Component Analysis (PCA) is used to reduce feature dimensions, while K
 
 ---
 
-## ✨ Features
+## Features
 
 - Data preprocessing and cleaning
 - Principal Component Analysis (PCA)
@@ -62,7 +62,7 @@ Principal Component Analysis (PCA) is used to reduce feature dimensions, while K
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -75,7 +75,7 @@ Principal Component Analysis (PCA) is used to reduce feature dimensions, while K
 
 ---
 
-## 🧩 Machine Learning Workflow
+## Machine Learning Workflow
 
 Dataset
 
@@ -105,7 +105,7 @@ GUI-Based Personality Prediction
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 human-behaviour-prediction-personality-traits/
@@ -120,7 +120,7 @@ human-behaviour-prediction-personality-traits/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/arthibalaji05/human-behaviour-prediction-personality-traits.git
@@ -134,7 +134,7 @@ python personality_prediction.py
 
 ---
 
-## 📊 Results
+## Results
 
 The proposed system successfully:
 
@@ -146,7 +146,7 @@ The proposed system successfully:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *<img width="1054" height="518" alt="kmeans" src="https://github.com/user-attachments/assets/e3b3fa16-1860-4d4d-b832-38407020a14d" />
 
@@ -154,7 +154,7 @@ The proposed system successfully:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Streamlit web application
 - Flask REST API
@@ -165,7 +165,7 @@ The proposed system successfully:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Arthi Balaji**
 
@@ -173,4 +173,4 @@ The proposed system successfully:
 
 ---
 
-## ⭐ If you found this project useful, please consider giving it a star!
+## If you found this project useful, please consider giving it a star!
